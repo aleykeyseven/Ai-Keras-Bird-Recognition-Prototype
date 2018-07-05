@@ -1,2 +1,4 @@
-# Ai-Keras-Bird-Recognition-Prototype
-An Bird Recognition Tool , working with Python, Keras, Tensorflow, Docker , Ubuntu 
+# AIFlowers2
+AIFlowers2
+
+https://flowersai.herokuapp.com/
